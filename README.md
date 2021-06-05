@@ -1,6 +1,6 @@
 # Gas path fault diagnosis for gas turbine group based on deep transfer learning
 
-This code provides a Keras implementation and pretrained model Finetuned model for Gas path fault diagnosis for gas turbine group, as described in the paper implementation of the [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0263224121006023) 
+This code provides a Keras implementation pretrained model and Finetuned model for Gas path fault diagnosis for gas turbine group, as described in the paper implementation of the [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0263224121006023) 
 :
 
 * **Author**: Yang Xusheng, XushengYang,MingliangBai,JinfuLiu,JiaoLiu,DarenYu
