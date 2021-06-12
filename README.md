@@ -3,7 +3,7 @@
 This code provides a Keras implementation pretrained model and Finetuned model for Gas path fault diagnosis for gas turbine group, as described in the paper implementation of the [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0263224121006023) 
 :
 
-* **Author**: Yang Xusheng, XushengYang,MingliangBai,JinfuLiu,JiaoLiu,DarenYu
+* **Author**: XushengYang,MingliangBai,JinfuLiu,JiaoLiu,DarenYu
 * **Journal**: Measurement
 * **More details**: [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0263224121006023) 
 
